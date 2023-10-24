@@ -3,7 +3,8 @@
 #include <iostream>
 #include <iomanip>
 
-//discord : 
+//discord : https://discord.gg/RqNF4Hg6uG
+//youtube : https://youtube.com/Tempfy
 
 namespace offsets
 {
