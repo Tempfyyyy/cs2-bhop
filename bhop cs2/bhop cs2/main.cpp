@@ -6,7 +6,7 @@
 namespace offsets
 {
 	constexpr std::ptrdiff_t dwForceJump = 0x169E360; // https://github.com/a2x/cs2-dumper/blob/main/generated/offsets.hpp
-	constexpr std::ptrdiff_t dwLocalPlayerPawn = 0x1885C28; //
+	constexpr std::ptrdiff_t dwLocalPlayerPawn = 0x1885C28; // https://github.com/a2x/cs2-dumper/blob/main/generated/offsets.hpp
 
 	constexpr std::ptrdiff_t m_fFlags = 0x3C8; //
 }
