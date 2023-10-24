@@ -4,7 +4,7 @@
 #include <iomanip>
 
 //discord : https://discord.gg/RqNF4Hg6uG
-//youtube : https://youtube.com/Tempfy
+//youtube : https://www.youtube.com/@Tempfy
 
 namespace offsets
 {
